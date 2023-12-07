@@ -3,7 +3,7 @@ Perfis dos participantes pernambucanos do Exame Nacional para Certificação de 
 
 Neste repositório você encontrará: o PDF do trabalho completo, os arquivos dos scripts em Python e R.
 
-Apresentação dos resultados em Power BI: [Clique Aqui](https://app.powerbi.com/view?r=eyJrIjoiMDA0ZTRkNjMtZjA1NC00Y2YxLTkyY2QtM2FhMzljODE0MTk4IiwidCI6IjMxNjg0YjJjLTc0YTgtNDdmMS1iYThkLWQ1YmM2OWNkZDAwOCJ9&pageName=ReportSection18c432b067330d4b5ba1)
+Apresentação dos resultados em Power BI: <a href="https://app.powerbi.com/view?r=eyJrIjoiMDA0ZTRkNjMtZjA1NC00Y2YxLTkyY2QtM2FhMzljODE0MTk4IiwidCI6IjMxNjg0YjJjLTc0YTgtNDdmMS1iYThkLWQ1YmM2OWNkZDAwOCJ9&pageName=ReportSection18c432b067330d4b5ba1" target="_blank">Clique Aqui</a>
 
 
 Aplicações e linguagens utilizadas: Python, Biblioteca Pandas, Google Colab, R, RStudio, Microsoft Excel, Microsoft Power BI.
