@@ -7,4 +7,4 @@ Apresentação dos resultados em Power BI: <a href="https://app.powerbi.com/view
 
 Aplicações e linguagens utilizadas: Python, Biblioteca Pandas, Google Colab, R, RStudio, Microsoft Excel, Microsoft Power BI.
 
-Trabalho realizado em parceria com <b>Anne Kelly Ribeiro da Silva</b> e <b>Misael Severino dos Santos Júnior</b>, como requisito para obtenção do título de Especialista em Ciência de Dados e Analytics do Programa de Pós-Graduação em Engenharia da Computação da Universidade de Pernambuco.
+Trabalho realizado em equipe com <b>Anne Kelly Ribeiro da Silva</b> e <b>Misael Severino dos Santos Júnior</b>, como requisito para obtenção do título de Especialista em Ciência de Dados e Analytics do Programa de Pós-Graduação em Engenharia da Computação da Universidade de Pernambuco.
